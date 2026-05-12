@@ -39,12 +39,12 @@ cada vez mais como desenvolvedor full stack.
 
 ## Experiência
 
-🏢 Estagiário em Tecnologia  
-🔧 Suporte técnico, manutenção e desenvolvimento web  
+Estagiário em Tecnologia  
+Suporte técnico, manutenção e desenvolvimento web  
 
 ---
 
-## 📫 Contato
+## Contato
 
 <div> 
  <a href="https://instagram.com/salezyx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
