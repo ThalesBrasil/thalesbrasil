@@ -17,7 +17,7 @@ Estudando React, Node.js, APIs e desenvolvimento web moderno
 
 ### Back-End
 <div style="display: inline_block"><br>
- <img src="https://skillicons.dev/icons?i=nodejs,aws,java,python,c,cs,git,github" />
+ <img src="https://skillicons.dev/icons?i=nodejs,aws,java,python,git,github" />
 </div>
 
 ---
