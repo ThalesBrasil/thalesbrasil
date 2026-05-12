@@ -1,12 +1,12 @@
-# 👋 Oi, eu sou o Thales!
+# Oi, eu sou o Thales!
 
-💻 Desenvolvedor Front-End com conhecimentos em Full Stack  
-🚀 Atualmente atuando como estagiário na área de tecnologia  
-📚 Estudando React, Node.js, APIs e desenvolvimento web moderno  
+Desenvolvedor Front-End com conhecimentos em Full Stack  
+Atualmente atuando como estagiário na área de tecnologia  
+Estudando React, Node.js, APIs e desenvolvimento web moderno  
 
 ---
 
-## 🚀 Tecnologias
+## Tecnologias
 
 ### Front-End
 <div style="display: inline_block"><br>
@@ -24,9 +24,10 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
+
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 Sou desenvolvedor focado em criação de interfaces modernas e responsivas,
 mas também possuo conhecimentos em back-end e integração de APIs.
@@ -36,7 +37,7 @@ cada vez mais como desenvolvedor full stack.
 
 ---
 
-## 💼 Experiência
+## Experiência
 
 🏢 Estagiário em Tecnologia  
 🔧 Suporte técnico, manutenção e desenvolvimento web  
