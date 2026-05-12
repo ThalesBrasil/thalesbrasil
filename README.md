@@ -17,8 +17,7 @@ Estudando React, Node.js, APIs e desenvolvimento web moderno
 
 ### Back-End
 <div style="display: inline_block"><br>
-  <img align="center" alt="Thales-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Thales-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+ <img src="https://skillicons.dev/icons?i=nodejs,aws,java,python,c,cs,git,github" />
 </div>
 
 ---
