@@ -1,4 +1,4 @@
-# Oi, eu sou o Thales!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0014B3&width=435&lines=Ol%C3%A1!;Eu+sou+o+Thales+Brasil!+%3A))](https://git.io/typing-svg)
 
 Desenvolvedor Front-End com conhecimentos em Full Stack  
 Atualmente atuando como estagiário na área de tecnologia  
