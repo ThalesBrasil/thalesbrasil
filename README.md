@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78900&width=435&lines=Ol%C3%A1!;Meu+nome+%C3%A9+Thales)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78900&width=435&lines=Ol%C3%A1!;Meu+nome+%C3%A9+Thales+!+XD)](https://git.io/typing-svg)
 
 Desenvolvedor Front-End com conhecimentos em Full Stack  
 Atualmente atuando como estagiário na área de tecnologia  
